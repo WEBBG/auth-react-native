@@ -1,1 +1,1 @@
-# Auth React-Native
+# Auth React-Native / Firebase
